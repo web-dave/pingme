@@ -1,11 +1,3 @@
-# Pingme
-
-This is my messenger PWA
-
-Build with Angular CLI
-
-Kudos to Maxim Salnikov (webmaxru)
-
 # API for my pingme messenger - a messenger PWA
 
 ### Endpoints
@@ -43,4 +35,3 @@ Endpoint|Method|Payload|Response
    }
 }
 </pre>
-
